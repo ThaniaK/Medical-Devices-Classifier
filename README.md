@@ -15,10 +15,10 @@ Double click on [index.html](https://github.com/ThaniaK/Medical-Devices-Classifi
 
 ## Usage
 
-```
+
 Returns the class of medical device according to MDR regulation by answering some questions
 
-```
+
 
 ## Contributing
 Requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

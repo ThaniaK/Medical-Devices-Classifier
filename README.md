@@ -3,7 +3,8 @@
 Web application that classifies medical devices using European Medical Device Regulation (MDR) risk categories.
 
 ```
-index.html-----------> basic structure of application/ elements
+
+[index.html]([https://pages.github.com/](https://github.com/ThaniaK/Medical-Devices-Classifier/blob/main/Medical%20Device%20Classification%20app/index.html))-----------> basic structure of application/ elements
 style.css -----------> describes how HTML elements should be displayed
 smart_script.js -----> interacts with HTML and CSS/ logic of application
 ```

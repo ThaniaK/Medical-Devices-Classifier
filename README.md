@@ -11,7 +11,7 @@ Web application that classifies medical devices using European Medical Device Re
 
 ## Installation
 
-Double click on index.html file
+Double click on [index.html](https://github.com/ThaniaK/Medical-Devices-Classifier/blob/main/Medical%20Device%20Classification%20app/index.html) file
 
 ## Usage
 

@@ -6,7 +6,7 @@ Web application that classifies medical devices using European Medical Device Re
 
 [index.html](https://github.com/ThaniaK/Medical-Devices-Classifier/blob/main/Medical%20Device%20Classification%20app/index.html) -----------> basic structure of application/ elements  
 [style.css](https://github.com/ThaniaK/Medical-Devices-Classifier/blob/main/Medical%20Device%20Classification%20app/style.css) -----------> describes how HTML elements should be displayed  
-[smart_script.js] (https://github.com/ThaniaK/Medical-Devices-Classifier/blob/main/Medical%20Device%20Classification%20app/smart_script.js) -----> interacts with HTML and CSS/ logic of application  
+[smart_script.js](https://github.com/ThaniaK/Medical-Devices-Classifier/blob/main/Medical%20Device%20Classification%20app/smart_script.js) -----> interacts with HTML and CSS/ logic of application  
 
 
 ## Installation

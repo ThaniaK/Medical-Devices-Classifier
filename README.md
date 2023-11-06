@@ -3,7 +3,7 @@
 Web application that classifies medical devices using European Medical Device Regulation (MDR) risk categories.  
 
 
-![Screenshot]![medical device](https://github.com/ThaniaK/Medical-Devices-Classifier/assets/53872109/6739f80d-1ab4-4d47-a89d-1630bd7451ab)  
+![medical device](https://github.com/ThaniaK/Medical-Devices-Classifier/assets/53872109/6739f80d-1ab4-4d47-a89d-1630bd7451ab)  
 
 
 

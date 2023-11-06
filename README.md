@@ -1,9 +1,9 @@
-![image](https://github.com/ThaniaK/Medical-Devices-Classifier/assets/53872109/8a55eb5b-8c4f-4f05-8448-d5882979a13c)# Medical Device Classification
+# **Medical Device Classification**  
 
-Web application that classifies medical devices using European Medical Device Regulation (MDR) risk categories.
+Web application that classifies medical devices using European Medical Device Regulation (MDR) risk categories.  
 
 
-![Screenshot]![medical device](https://github.com/ThaniaK/Medical-Devices-Classifier/assets/53872109/6739f80d-1ab4-4d47-a89d-1630bd7451ab)
+![Screenshot]![medical device](https://github.com/ThaniaK/Medical-Devices-Classifier/assets/53872109/6739f80d-1ab4-4d47-a89d-1630bd7451ab)  
 
 
 
